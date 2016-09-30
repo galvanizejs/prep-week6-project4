@@ -1,3 +1,3 @@
-# Week4 Project4
+# jQuery (Project 4)
 
 Advanced jQuery practice
